@@ -1,2 +1,2 @@
-# RefCells
+# RefCell
 R package
